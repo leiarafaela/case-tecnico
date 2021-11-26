@@ -1,6 +1,4 @@
-# case-tecnico
-
-Resolução do Case Técnico - Girls in Tech ✌
+# Leitura de dados json
 
 - Linguagem: Python
 - IDE/Editor: Visual Estudio Code
